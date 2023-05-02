@@ -1,2 +1,2 @@
-# L-sta-Avaliativa1
+# Lista-Avaliativa1
 13 exercises programmed in c.
